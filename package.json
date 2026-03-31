@@ -1,0 +1,28 @@
+{
+  "name": "variable-translation",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "plugma dev",
+    "build": "plugma build",
+    "release": "plugma release",
+    "typecheck": "tsc -b",
+    "deepl-proxy": "node server/deepl-proxy.mjs"
+  },
+  "devDependencies": {
+    "@figma/plugin-typings": "^1.100.2",
+    "@types/react": "^18.3.12",
+    "@types/react-dom": "^18.3.1",
+    "@vitejs/plugin-react": "^4.3.3",
+    "plugma": "^2.2.3",
+    "tslib": "^2.8.0",
+    "typescript": "~5.6.2",
+    "vite": "^7.0.0"
+  },
+  "dependencies": {
+    "@tailwindcss/vite": "latest",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "tailwindcss": "latest"
+  }
+}

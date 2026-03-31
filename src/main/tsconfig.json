@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "composite": true,
+    "target": "ES2022",
+    "lib": ["ES2022"],
+    "module": "ESNext",
+    "moduleResolution": "bundler",
+    "noEmit": true,
+    "types": []
+  },
+  "include": [
+    "**/*.ts",
+    "../shared/**/*.ts",
+    "./vite-env.d.ts",
+    "../../node_modules/@figma/plugin-typings/index.d.ts"
+  ]
+}
