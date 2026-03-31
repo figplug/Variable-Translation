@@ -4,9 +4,19 @@
 </div>
 
 <div align="center">
-  <img alt="GitHub last commit" src="https://img.shields.io/badge/GitHub-ready-black?style=plastic" />
-  <img alt="Figma plugin" src="https://img.shields.io/badge/Figma-Plugin-blue?style=plastic" />
-  <img alt="Open source" src="https://img.shields.io/badge/Open%20Source-friendly-success?style=plastic" />
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/figplug/Variable-Translation?style=plastic" />
+  <img alt="Repo size" src="https://img.shields.io/github/repo-size/figplug/Variable-Translation?style=plastic" />
+  <img alt="License" src="https://img.shields.io/github/license/figplug/Variable-Translation?style=plastic" />
+  <a href="https://github.com/figplug/Variable-Translation/issues">
+    <img alt="GitHub issues" src="https://img.shields.io/github/issues/figplug/Variable-Translation?style=plastic" />
+  </a>
+  <a href="https://github.com/figplug/Variable-Translation/pulls">
+    <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/figplug/Variable-Translation?style=plastic" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/figplug/Variable-Translation">GitHub Repository</a>
 </div>
 
 ## Overview
